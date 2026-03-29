@@ -45,8 +45,7 @@
 
 ## 📌 Featured Projects
 
-🔹 Coming soon... (add your QA projects here)  
-🔹 Examples: manual testing, bug reports, automation  
+🔹 Coming soon...
 
 ---
 
