@@ -45,9 +45,11 @@
 
 ## 📌 Featured Projects
 
-🔹 Coming soon...
+🔁 Regression Testing:  
+👉 [Open in Google Sheets](https://docs.google.com/spreadsheets/d/1KdGISKHSJ2bIfsonafo8VhdcDRrFw6-1/edit?usp=sharing&ouid=104845789536408061320&rtpof=true&sd=true)
 
----
+🐞 Bug Report and 🧪 Test Cases:  
+👉 [Open in Google Sheets](https://docs.google.com/spreadsheets/d/1Ztv_lofftBqX2ebgp7JJMulNMUKGBMFT/edit?usp=sharing&ouid=104845789536408061320&rtpof=true&sd=true)
 
 ## 🌐 Connect with Me
 
