@@ -54,7 +54,7 @@
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/janderson-rodrigues-da-silva-71174014b/">
+  <a href="https://www.linkedin.com/in/jandersonrsilva/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
